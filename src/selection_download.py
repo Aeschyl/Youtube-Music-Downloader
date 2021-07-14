@@ -3,7 +3,9 @@ import os
 import requests
 import re
 
-search_request = str.strip(str(input('>> ')))
+user_request = str.strip(str(input('>> ')))
+
+search_request = user_request + ' song'
 
 youtube_api_key = '<YOUR API KEY HERE>'
 
