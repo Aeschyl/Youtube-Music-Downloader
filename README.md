@@ -1,5 +1,5 @@
 # Youtube-Music-Downloader
-Downloads the shortest video of music from youtube in audio format.
+Downloads the shortest video from youtube in audio format.
 
 Use the selection_download.py file to get three options to choose from to download in audio format.
 
